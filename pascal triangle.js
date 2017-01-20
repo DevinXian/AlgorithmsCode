@@ -4,14 +4,6 @@
  */
 const SPACE = ' ';
 
-function printSpace(count) {
-	var str = '';
-	for (let i = 0; i < count; i++) {
-		str += SPACE;
-	}
-	return str;
-}
-
 function triangle(rowNum) {
 	//two dimension array [rowNum * N]
 	const result = new Array(12);
