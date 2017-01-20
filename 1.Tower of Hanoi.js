@@ -1,6 +1,7 @@
 /**
  * Created by wind on 17-1-20.
- * @complexity 2^n - 1, search stackoverflow
+ * @complexity 2^n - 1, see 
+ * @link http://stackoverflow.com/questions/12383044/complexity-for-towers-of-hanoi
  */
 function move(count, a, b, c) {
 	if (count <= 0)  return;
