@@ -1,2 +1,2 @@
 # AlgorithmsCode
-Code(written in JavaScript)  for 《经典算法大全》
+Code(written in JavaScript)  for 《算法实例》
